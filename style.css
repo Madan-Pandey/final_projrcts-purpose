@@ -21,7 +21,7 @@ body {
   display: flex;
   gap: 10px;
   justify-content: space-evenly;
-  margin-top: 114px;
+ margin-top: 15px;
 }
 #break {
  font-size: 2.5rem;
@@ -34,8 +34,8 @@ text-align: center;
 }
 .show {
   height: 51%;
-  width: 62%;
-  margin: -7vw 8vh 2vw;
+  width: 50%;
+  margin: -10vw 10vh 1vw;
 }
 
 .cry {
@@ -71,7 +71,7 @@ text-align: center;
   margin-top: 97px;
 }
 #then {
-  margin-top: 50px;
+    margin-top: 36px;
   font-size: 2.8rem;
   animation: textAnimation 1.2s infinite cubic-bezier(0.4, 0, 0.2, 1) forwards;
   animation-delay: 0.5s;
